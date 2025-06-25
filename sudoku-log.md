@@ -14,3 +14,8 @@
 - 📸 Screenshot: [View Puzzle](screenshots/day%20-3-sudoku.png)
 - 🕒 Time Taken: 35:20 min
 - 🧠 Difficulty: Medium
+
+## Day 4 – June 25, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-4-sudoku.png)
+- 🕒 Time Taken: 30:45 min
+- 🧠 Difficulty: Medium
