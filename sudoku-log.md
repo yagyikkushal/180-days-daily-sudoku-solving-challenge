@@ -25,7 +25,12 @@
 - 🕒 Time Taken: 13:05 min
 - 🧠 Difficulty: Medium
 
-- ## Day 6 – June 27, 2025
+## Day 6 – June 27, 2025
 - 📸 Screenshot: [View Puzzle](screenshots/day%20-6-sudoku.png)
 - 🕒 Time Taken: 9:22 min
 - 🧠 Difficulty: Medium
+
+## Day 7 – June 28, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-7-sudoku.png)
+- 🕒 Time Taken: 16:10 min
+- 🧠 Difficulty: Hard
