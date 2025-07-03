@@ -54,3 +54,8 @@
 - 📸 Screenshot: [View Puzzle](screenshots/day%20-11-sudoku.png)
 - 🕒 Time Taken: 29:04 min
 - 🧠 Difficulty: Medium
+
+## Day 12 – July 03, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-12-sudoku.png)
+- 🕒 Time Taken: 09:25 min
+- 🧠 Difficulty: Medium
