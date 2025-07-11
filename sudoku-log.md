@@ -94,3 +94,8 @@
 - 📸 Screenshot: [View Puzzle](screenshots/day%20-19-sudoku.png)
 - 🕒 Time Taken: 18:27 min
 - 🧠 Difficulty: Medium
+
+## Day 20 – July 11, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-20-sudoku.png)
+- 🕒 Time Taken: 14:55 min
+- 🧠 Difficulty: Medium
