@@ -144,3 +144,8 @@
 - 📸 Screenshot: [View Puzzle](screenshots/day%20-29-sudoku.png)
 - 🕒 Time Taken: 16:00 min
 - 🧠 Difficulty: Hard
+
+## Day 30 – July 21, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-30-sudoku.png)
+- 🕒 Time Taken: 20:15 min
+- 🧠 Difficulty: Hard
