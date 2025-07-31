@@ -194,3 +194,8 @@
 - 📸 Screenshot: [View Puzzle](screenshots/day%20-39-sudoku.png)
 - 🕒 Time Taken: 20:13 min
 - 🧠 Difficulty: Expert
+
+## Day 40 – July 31, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-40-sudoku.png)
+- 🕒 Time Taken: 36:18 min
+- 🧠 Difficulty: Expert
