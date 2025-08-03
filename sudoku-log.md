@@ -209,3 +209,8 @@
 - 📸 Screenshot: [View Puzzle](screenshots/day%20-42-sudoku.png)
 - 🕒 Time Taken: 45:03 min
 - 🧠 Difficulty: Expert
+
+## Day 43 – August 03, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-42-sudoku.png)
+- 🕒 Time Taken: 13:58 min
+- 🧠 Difficulty: Hard
