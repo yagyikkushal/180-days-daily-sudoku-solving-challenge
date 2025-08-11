@@ -249,3 +249,8 @@
 - 📸 Screenshot: I again lost the screenshot even after solving sudoku. I will fix this tomorrow.
 - 🕒 Time Taken: 14:29 min
 - 🧠 Difficulty: Easy
+
+## Day 51 – August 11, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-51-sudoku.png)
+- 🕒 Time Taken: 51:11 min
+- 🧠 Difficulty: Expert
