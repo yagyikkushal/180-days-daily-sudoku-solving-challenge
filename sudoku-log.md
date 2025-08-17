@@ -279,3 +279,8 @@
 - 📸 Screenshot: [View Puzzle](screenshots/day%20-56-sudoku.png)
 - 🕒 Time Taken: 5:00 min
 - 🧠 Difficulty: Easy
+
+## Day 57 – August 17, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-57-sudoku.png)
+- 🕒 Time Taken: 31:07 min
+- 🧠 Difficulty: Expert
