@@ -324,3 +324,8 @@
 - 📸 Screenshot: [View Puzzle](screenshots/day%20-65-sudoku.png)
 - 🕒 Time Taken: 39:09 min
 - 🧠 Difficulty: Expert
+
+## Day 66 – August 26, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-66-sudoku.png)
+- 🕒 Time Taken: 27:44 min
+- 🧠 Difficulty: Expert
