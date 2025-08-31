@@ -349,3 +349,8 @@
 - 📸 Screenshot: [View Puzzle](screenshots/day%20-70-sudoku.png)
 - 🕒 Time Taken: 6:45 min
 - 🧠 Difficulty: Easy
+
+## Day 71 – August 31, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-71-sudoku.png)
+- 🕒 Time Taken: 6:36 min
+- 🧠 Difficulty: Easy
