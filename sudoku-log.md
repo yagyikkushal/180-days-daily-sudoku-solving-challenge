@@ -359,3 +359,8 @@
 - 📸 Screenshot: [View Puzzle](screenshots/day%20-72-sudoku.png)
 - 🕒 Time Taken: 34:52 min
 - 🧠 Difficulty: Expert
+
+## Day 73 – September 02, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-73-sudoku.png)
+- 🕒 Time Taken: 07:42 min
+- 🧠 Difficulty: Easy
