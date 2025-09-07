@@ -384,3 +384,8 @@
 - 📸 Screenshot: [View Puzzle](screenshots/day%20-77-sudoku.png)
 - 🕒 Time Taken: 04:51 min
 - 🧠 Difficulty: Easy
+
+## Day 78 – September 07, 2025
+- 📸 Screenshot: [View Puzzle](screenshots/day%20-78-sudoku.png)
+- 🕒 Time Taken: 14:54 min
+- 🧠 Difficulty: Expert
